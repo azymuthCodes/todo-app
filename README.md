@@ -1,16 +1,34 @@
-# todo
+# To Do App
+This repository contains a simple ToDo application built using Flutter. It allows users to create tasks, mark them as complete, and delete them when no longer needed. This README file provides an overview of the project, instructions for setting it up locally.
+Features
 
-A new Flutter project.
+    -Create new tasks with a title and optional description.
+    -Mark tasks as complete.
+    -Delete tasks from the list.
+    -Clean and intuitive user interface.
 
-## Getting Started
+Getting Started
 
-This project is a starting point for a Flutter application.
+To run this application locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+    -Download the todo_release.apk file from the repository.
+    -Run it in an android phone and install it.
+    -Open the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+How to Use
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Adding a Task:
+        Tap on the '+' button to add a new task.
+        Enter a title 
+        Tap 'Add' to add the task to the list.
+
+    Completing a Task:
+        Tap on the checkbox next to a task to mark it as complete.
+
+    Deleting a Task:
+        Swipe left on a task to remove the task from the list.
+
+
+This ToDo app is built using Flutter, which is a framework developed by Google.
+Inspiration for the project structure and UI design was taken from various online resources and tutorials.
+
